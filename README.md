@@ -1,7 +1,7 @@
 # PhonePe Mobile Recharge Optimization: Product Case Study
 
 ## 📌 Project Overview
-This project focuses on streamlining the mobile recharge experience for **PhonePe's 500M+ users**. By identifying friction in the existing 9-step journey, I redesigned the flow into a personalized **3-tap experience**.
+This project focuses on streamlining the mobile recharge experience for **PhonePe's 500M+ users**. By identifying friction in the existing 9-step journey, I redesigned the flow into a personalized **6-tap experience**.
 
 ### 🔴 The Problem
 * **High Cognitive Load:** Users must browse through 40+ generic plans because habitual packs aren't prioritized.
